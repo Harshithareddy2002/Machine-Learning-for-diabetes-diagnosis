@@ -35,7 +35,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### 3️⃣ Run the Project
 Execute the Python script to train models and generate visualizations:
 ```sh
-python diabetes_analysis.py
+python machine_learning_for_diabetes_diagnosis_.py
 ```
 
 ---
