@@ -75,7 +75,7 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 
 
 
-!(Comparison_bargraph.png)
+Comparison_bargraph.png
 
 ## Author
 👩‍💻 **K. Harshitha Reddy**  
