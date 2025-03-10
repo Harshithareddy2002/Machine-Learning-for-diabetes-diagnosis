@@ -73,7 +73,9 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 ---
 ## Visualization
 ![EDA](EDA.jpg)
+![C_HEATMAP](Correlation_Heatmap.png)
 ![Comparison Bar Graph](Comparison_bargraph.png)
+![SVM](SVM_Confusionmatrix.png)
 
 ---
 
