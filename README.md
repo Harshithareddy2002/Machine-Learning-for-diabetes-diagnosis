@@ -72,6 +72,7 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 
 ---
 ## Visualization
+![EDA](EDA.jpeg)
 ![Comparison Bar Graph](Comparison_bargraph.png)
 
 ---
