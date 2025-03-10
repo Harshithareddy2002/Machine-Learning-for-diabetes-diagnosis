@@ -10,29 +10,29 @@ This project implements **Machine Learning** techniques to predict whether a pat
 The project also includes **data visualization** techniques to analyze and interpret the dataset effectively.
 
 ## Features Implemented
-✅ Exploratory Data Analysis (EDA)  
-✅ Model Training & Evaluation  
-✅ Data Visualization (Matplotlib & Seaborn)  
-✅ Model Comparison (Accuracy & Confusion Matrix)  
-✅ Feature Importance Analysis  
+Exploratory Data Analysis (EDA)  
+Model Training & Evaluation  
+Data Visualization (Matplotlib & Seaborn)  
+Model Comparison (Accuracy & Confusion Matrix)  
+Feature Importance Analysis  
 
 ---
 
 ## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 ```sh
 git clone <your-repo-url>
 cd <your-repo-folder>
 ```
 
-### 2️⃣ Install Dependencies
+### 2. Install Dependencies
 Ensure you have Python installed and run the following command:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-### 3️⃣ Run the Project
+### 3. Run the Project
 Execute the Python script to train models and generate visualizations:
 ```sh
 python machine_learning_for_diabetes_diagnosis_.py
