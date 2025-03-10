@@ -71,6 +71,11 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 | Decision Tree | 76.6% |
 
 ---
+## Visualization
+
+
+
+!(Comparison_bargraph.png)
 
 ## Author
 👩‍💻 **K. Harshitha Reddy**  
