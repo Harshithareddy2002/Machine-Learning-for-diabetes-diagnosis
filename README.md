@@ -72,10 +72,9 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 
 ---
 ## Visualization
+![Comparison Bar Graph](Machime-Learning-for-diabetes-diagnosis/Comparison_bargraph.png)
 
-
-
-(Machime-Learning-for-diabetes-diagnosis/Comparison_bargraph.png)
+---
 
 ## Author
 👩‍💻 **K. Harshitha Reddy**  
