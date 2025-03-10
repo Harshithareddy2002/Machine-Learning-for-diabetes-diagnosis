@@ -72,13 +72,6 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 
 ---
 
-## Future Improvements
-📌 Try more ML models like **Random Forest, Logistic Regression**  
-📌 Optimize hyperparameters using **GridSearchCV**  
-📌 Implement deep learning using **TensorFlow/Keras**  
-
----
-
 ## Author
 👩‍💻 **K. Harshitha Reddy**  
 📧 harshithareddyk2002@gmail.com  
