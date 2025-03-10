@@ -1,85 +1,88 @@
-Machine Learning for Diabetes Diagnosis
+# Machine Learning for Diabetes Diagnosis
 
-Project Overview
+## Project Overview
+This project implements **Machine Learning** techniques to predict whether a patient has diabetes based on diagnostic measurements. The dataset is originally from the **National Institute of Diabetes and Digestive and Kidney Diseases**. Three classification algorithms are used:
 
-This project implements Machine Learning techniques to predict whether a patient has diabetes based on diagnostic measurements. The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. Three classification algorithms are used:
+- **Support Vector Machine (SVM)**
+- **K-Nearest Neighbors (KNN)**
+- **Decision Tree**
 
-Support Vector Machine (SVM)
+The project also includes **data visualization** techniques to analyze and interpret the dataset effectively.
 
-K-Nearest Neighbors (KNN)
+## Features Implemented
+✅ Exploratory Data Analysis (EDA)  
+✅ Model Training & Evaluation  
+✅ Data Visualization (Matplotlib & Seaborn)  
+✅ Model Comparison (Accuracy & Confusion Matrix)  
+✅ Feature Importance Analysis  
 
-Decision Tree
+---
 
-The project also includes data visualization techniques to analyze and interpret the dataset effectively.
+## Installation & Setup
 
-Features Implemented
-
-✅ Exploratory Data Analysis (EDA) ✅ Model Training & Evaluation ✅ Data Visualization (Matplotlib & Seaborn) ✅ Model Comparison (Accuracy & Confusion Matrix) ✅ Feature Importance Analysis
-
-Installation & Setup
-
-1️⃣ Clone the Repository
-
+### 1️⃣ Clone the Repository
+```sh
 git clone <your-repo-url>
 cd <your-repo-folder>
+```
 
-2️⃣ Install Dependencies
-
+### 2️⃣ Install Dependencies
 Ensure you have Python installed and run the following command:
-
+```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
-3️⃣ Run the Project
-
+### 3️⃣ Run the Project
 Execute the Python script to train models and generate visualizations:
-
+```sh
 python diabetes_analysis.py
+```
 
-Dataset
+---
 
+## Dataset
 The dataset consists of multiple diagnostic features used to predict diabetes. The features include:
+- **Pregnancies**
+- **Glucose Level**
+- **Blood Pressure**
+- **Skin Thickness**
+- **Insulin Level**
+- **BMI**
+- **Diabetes Pedigree Function**
+- **Age**
 
-Pregnancies
+The **target variable** indicates whether the patient has diabetes (**1**) or not (**0**).
 
-Glucose Level
+---
 
-Blood Pressure
+## Visualizations Included
+🔹 **Feature Distributions** (Histograms)  
+🔹 **Correlation Heatmap**  
+🔹 **Model Performance (Confusion Matrix, Accuracy Comparison)**  
+🔹 **Feature Importance (Decision Tree Algorithm)**  
 
-Skin Thickness
+---
 
-Insulin Level
+## Model Performance
+| Model | Accuracy |
+|--------|----------|
+| SVM | 80.5% |
+| KNN | 72.0% |
+| Decision Tree | 76.6% |
 
-BMI
+---
 
-Diabetes Pedigree Function
+## Future Improvements
+📌 Try more ML models like **Random Forest, Logistic Regression**  
+📌 Optimize hyperparameters using **GridSearchCV**  
+📌 Implement deep learning using **TensorFlow/Keras**  
 
-Age
+---
 
-The target variable indicates whether the patient has diabetes (1) or not (0).
+## Author
+👩‍💻 **K. Harshitha Reddy**  
+📧 harshithareddyk2002@gmail.com  
+  
 
-Visualizations Included
 
-🔹 Feature Distributions (Histograms)🔹 Correlation Heatmap🔹 Model Performance (Confusion Matrix, Accuracy Comparison)🔹 Feature Importance (Decision Tree Algorithm)
-
-Model Performance
-
-Model
-
-Accuracy
-
-SVM
-
-80.5%
-
-KNN
-
-72.0%
-
-Decision Tree
-
-76.6%
-
-Future Improvements
-
-📌 Try more ML models like Random Forest, Logistic Regression 📌 Optimize hyperparameters using GridSearchCV 📌 Implement deep learning using TensorFlow/Keras
 
