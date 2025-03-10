@@ -14,7 +14,7 @@ The project also includes data visualization techniques to analyze and interpret
 
 Features Implemented
 
-✅ Exploratory Data Analysis (EDA)✅ Model Training & Evaluation✅ Data Visualization (Matplotlib & Seaborn)✅ Model Comparison (Accuracy & Confusion Matrix)✅ Feature Importance Analysis
+✅ Exploratory Data Analysis (EDA) ✅ Model Training & Evaluation ✅ Data Visualization (Matplotlib & Seaborn) ✅ Model Comparison (Accuracy & Confusion Matrix) ✅ Feature Importance Analysis
 
 Installation & Setup
 
@@ -81,4 +81,5 @@ Decision Tree
 
 Future Improvements
 
-📌 Try more ML models like Random Forest, Logistic Regression📌 Optimize hyperparameters using GridSearchCV📌 Implement deep learning using TensorFlow/Keras
+📌 Try more ML models like Random Forest, Logistic Regression 📌 Optimize hyperparameters using GridSearchCV 📌 Implement deep learning using TensorFlow/Keras
+
