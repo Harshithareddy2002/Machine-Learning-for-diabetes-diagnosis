@@ -71,7 +71,7 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 | Decision Tree | 76.6% |
 
 ---
-## A Quick Glance at all the Visualizations Used
+## A Quick Glance at all the Visualization Techniques Used
 ![EDA](EDA.jpg)
 ![C_HEATMAP](Correlation_Heatmap.png)
 ![Comparison Bar Graph](Comparison_bargraph.png)
