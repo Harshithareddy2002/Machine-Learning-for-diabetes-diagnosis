@@ -73,9 +73,20 @@ The **target variable** indicates whether the patient has diabetes (**1**) or no
 ---
 ## A Quick Glance at all the Visualization Techniques Used
 ![EDA](EDA.jpg)
+From the above EDA we can see that dataset is negatively skewed, with more non-diabetic cases than diabetic ones. Most patients are aged 20-40, with common BMI values between 25-35. Features like glucose, insulin, and age show extreme values, and missing data in insulin & skin thickness may require imputation. 
+
 ![C_HEATMAP](Correlation_Heatmap.png)
+From the above heatmap we can say that:
+As,Glucose and Outcome (Diabetes) are highly correlated,glucose is a strong predictor.
+Features with low correlation (<0.3) with Outcome may contribute less to prediction.
+The two independent variables ( BMI & Skin Thickness) have high correlation, one might be redundant.
+
+
 ![Comparison Bar Graph](Comparison_bargraph.png)
+The bar graph that was used to visualize the accuracy of each three classification models i.e SVM, KNN, Decision Tree and lets us decide which among them gives the highest accuracy in this case its SVM.
+
 ![SVM Confusion Matrix](SVM_Confusionmatrix.png)
+The confusion matrix is used to check how many of the values are true positive(TP)= 29  ,true negative(TN)= 98 (i.e correctly predicted positive,negative) and false positive = 9 and false negative = 18 (wrongly predicted positive,negative) by using the SVM Model
 
 ---
 
